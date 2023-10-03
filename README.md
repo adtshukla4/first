@@ -1,3 +1,3 @@
 # first
-Hacktoberfest accepted.
+Hacktoberfest2023 accepted.
 Commit.
